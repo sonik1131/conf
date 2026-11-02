@@ -6,615 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Конференции ВАК/РИНЦ
 X-WR-TIMEZONE:Europe/Moscow
 BEGIN:VEVENT
-UID:4046986029@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:📖 ! ДЕДЛАЙН подачи: 3 (V) Международн
- ая научно-практическая конференция «Вы
- зовы глобализации и развитие цифрового
-  общества в условиях новой  [РИНЦ\, платн
- о]
-DESCRIPTION:Проведение: 30.10.2026\nДедлайн подачи
- : 30.10.2026\nИндексация: РИНЦ\nПубликация: пл
- атно\nМесто: очно/заочно\; организатор —
-  АНО ДПО «Университет ИТБО» (сайт obrazovanie
- .com.ru)\nФормат: очно/заочно\nТемы/контакты
- : цифровое общество/ИТ: направления вкл
- ючают информационные технологии\, инже
- нерное дело\, сельскохозяйственные нау
- ки\, рыбное хозяйство и охоту\, экологию 
- и природопользование\; сборник в eLibrary/Р
- ИНЦ (постатейно)\, DOI\, ISBN\, DataCite\, Google Scholar\;
-  стоимость публикации 2500 руб. независим
- о от объёма\, статья с DOI +400 руб.\; доктора
-  наук (единоличные статьи) — бесплатно\;
-  e-mail mkpg2@yandex.ru\; сайт \nСсылка: https://konferencii.r
- u/info/142123\nСайт конференции: http://obrazovanie.com.r
- u\nИнформационное письмо: https://konferencii.ru/dow
- nload/142123
-URL:https://konferencii.ru/download/142123
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: 3 (V) Междунаро
- дная научно-практическая конференция «
- Вызовы глобализации и развитие цифрово
- го общест
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:652013896@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:📖 ! ДЕДЛАЙН подачи: 4 (VIII) Международ
- ная научно-практическая конференция «В
- ызовы современности и стратегии развит
- ия общества в условиях но [РИНЦ\, платно]
-DESCRIPTION:Проведение: 30.10.2026\nДедлайн подачи
- : 30.10.2026\nИндексация: РИНЦ\nПубликация: пл
- атно\nМесто: Россия\, Москва (очно/заочно
- )\, АНО ДПО «Университет ИТБО»\nФормат: о
- чно/заочно\nТемы/контакты: тематика: рыб
- ное хозяйство и охота\, сельскохозяйств
- енные науки\, науки о Земле\, океанологи
- я\, информационные технологии\, техниче
- ские науки\, экология и природопользова
- ние и др.\; РИНЦ/eLibrary/DOI/ISBN\; оргвзнос 2500 ₽
-  независимо от числа страниц (присвоени
- е DOI +400 ₽)\; e-mail mkwss@yandex.ru\; сайт http://obrazovanie.
- com.ru\; приём материалов до 30.10.2026\nСсылка: 
- https://konferencii.ru/info/135702\nСайт конференции: htt
- p://obrazovanie.com.ru\nИнформационное письмо: https
- ://konferencii.ru/download/135702
-URL:https://konferencii.ru/download/135702
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: 4 (VIII) Междунар
- одная научно-практическая конференция 
- «Вызовы современности и стратегии разв
- ития об
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:5872887381@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:📖 ! ДЕДЛАЙН подачи: III Всероссийска
- я научно-практическая конференция «Про
- граммное обеспечение для цифровизации 
- предприятий и организаций» ( [РИНЦ\, бес
- платно]
-DESCRIPTION:Проведение: 02.11.2026–03.11.2026\nДедлайн
-  подачи: 30.10.2026\nИндексация: РИНЦ\nПублик
- ация: бесплатно\nМесто: Магнитогорск\, М
- ГТУ им. Г.И. Носова\nФормат: очно/заочно\n
- Темы/контакты: ИТ: внедрение цифровых т
- ехнологий на предприятиях\, информацио
- нное обеспечение\, проектирование и раз
- работка ПО\, VR и геймификация\, системы и
- скусственного интеллекта\; публикация 
- бесплатная\, труды постатейно в eLibrary/РИ
- НЦ\; e-mail vtip-magtu@mail.ru\; последний срок приё
- ма статей 30.10.2026\; пост VK: https://vk.com/wall-59402490
- _6855\nСсылка: https://disk.yandex.ru/i/Vi2L_9lkTnQ2hg
-URL:https://disk.yandex.ru/i/Vi2L_9lkTnQ2hg
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: III Всероссийс
- кая научно-практическая конференция «П
- рограммное обеспечение для цифровизац
- ии предприя
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1568365142@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:📖 ! ДЕДЛАЙН подачи: V Всероссийская 
- научно-практическая конференция с межд
- ународным участием «Роль ботанических 
- садов и дендропарков в сохра [РИНЦ\, не у
- казано]
-DESCRIPTION:Проведение: 12.11.2026\nДедлайн подачи
- : 30.10.2026\nИндексация: РИНЦ\nПубликация: не
-  указано\nСсылка: https://konferencii.ru/info/154021\nИн
- формационное письмо: https://konferencii.ru/download/1
- 54021
-URL:https://konferencii.ru/download/154021
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: V Всероссийск
- ая научно-практическая конференция с м
- еждународным участием «Роль ботаничес
- ких садов и 
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1667097955@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:📖 ! ДЕДЛАЙН подачи: V Межрегиональн
- ая научно-практическая конференция «Ст
- атистика прошлого\, настоящего и будуще
- го» (г. Барнаул) [РИНЦ\, бесплатно]
-DESCRIPTION:Проведение: 26.11.2026–27.11.2026\nДедлайн
-  подачи: 30.10.2026\nИндексация: РИНЦ\nПублик
- ация: бесплатно\nМесто: г. Барнаул\nТемы/
- контакты: темы: развитие аграрного сект
- ора и сельских территорий\, статистика\,
-  статистика в цифровой среде\; заявки до
-  30 окт\; бесплатная публикация\nСсылка: ht
- tps://vk.com/wall-59402490_6595
-URL:https://vk.com/wall-59402490_6595
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: V Межрегионал
- ьная научно-практическая конференция «
- Статистика прошлого\, настоящего и буду
- щего» (г. Б
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:4092844264@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:📖 ! ДЕДЛАЙН подачи: VII Международна
- я научно-практическая конференция моло
- дых ученых «Цифровая трансформация – ш
- аг в будущее» (Минск\, Белару [РИНЦ\, бесп
- латно]
-DESCRIPTION:Проведение: 06.11.2026\nДедлайн подачи
- : 30.10.2026\nИндексация: РИНЦ\nПубликация: бе
- сплатно\nМесто: Минск (Беларусь)\nФормат:
-  очно\, онлайн\nТемы/контакты: ИТ/цифрова
- я трансформация: IT-проекты и технологич
- еские инновации\, цифровая интеграция н
- ауки/образования/индустрии\, цифровые ф
- инансы и учётные технологии\, экономиче
- ская безопасность и защита информации\,
-  экономико-математическое моделирован
- ие\; бесплатная публикация\, электронны
- й сборник в РИНЦ\; e-mail eco.digital.transform@gmail.com\;
-  заявки и доклады до 30.10.2026 включительно
- \, конференция 06.11.202\nСсылка: https://disk.yandex.r
- u/i/Rdnnrca9gvytsQ
-URL:https://disk.yandex.ru/i/Rdnnrca9gvytsQ
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: VII Международ
- ная научно-практическая конференция мо
- лодых ученых «Цифровая трансформация 
- – шаг в буд
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:9269757150@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:📖 ! ДЕДЛАЙН подачи: VIII Международна
- я научно-практическая конференция «Меж
- дисциплинарные исследования проблем н
- ауки\, техники и общества» (М [РИНЦ\, не у
- казано]
-DESCRIPTION:Проведение: 30.10.2026\nДедлайн подачи
- : 30.10.2026\nИндексация: РИНЦ\nПубликация: не
-  указано\nМесто: Международный центр «Н
- овые научные исследования» (заочно)\, са
- йт newnauka.ru\nФормат: заочно\nТемы/контакты:
-  междисциплинарные исследования: наука
- \, техника и общество\; секции техническ
- их\, физико-математических\, естественн
- ых наук\, науки о Земле\, архитектура и д
- р.\; сборнику присваивается ISBN\, статьи з
- агружаются в РИНЦ\, электронный сборник
-  отправляется авторам\; e-mail konf@newnauka.ru\; с
- айт https://newnauka.ru\; приём заявок до 30.10.2026\nС
- сылка: https://konferencii.ru/info/133380\nСайт конфере
- нции: https://newnauka.ru
-URL:https://newnauka.ru
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: VIII Международ
- ная научно-практическая конференция «М
- еждисциплинарные исследования проблем
-  науки\, те
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1210204981@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:📖 ! ДЕДЛАЙН подачи: WORLD OF SCIENCE [РИНЦ\, 
- не указано]
-DESCRIPTION:Проведение: 30.10.2026\nДедлайн подачи
- : 30.10.2026\nИндексация: РИНЦ\nПубликация: не
-  указано\nСсылка: https://naukaip.ru/world-of-science/
-URL:https://naukaip.ru/world-of-science/
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: WORLD OF SCIENCE
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1301529367@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:📖 ! ДЕДЛАЙН подачи: XV Всероссийская
-  научно-практическая конференция «Акту
- альные проблемы профессионального пед
- агогического и технологическо [РИНЦ\, п
- латно]
-DESCRIPTION:Дедлайн подачи: 30.10.2026\nИндексация
- : РИНЦ\nПубликация: платно\nФормат: очно\,
-  дистанционно\, заочно\nТемы/контакты: В
- знос 300 руб. за статью\; зарубежные участ
- ники и доктора наук публикуются беспла
- тно\; направления включают технологиче
- ское образование и эколого-географичес
- кое образование\; информационное письм
- о: disk.yandex.ru/d/WriBmefB... (ссылка обрезана\, тре
- бует проверки).\nСсылка: https://vk.com/wall-59402490_
- 6892
-URL:https://vk.com/wall-59402490_6892
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: XV Всероссийск
- ая научно-практическая конференция «Ак
- туальные проблемы профессионального п
- едагогическ
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:7533094696@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:📖 ! ДЕДЛАЙН подачи: XVI Международна
- я научно-инновационная молодежная конф
- еренция «Современные твердофазные тех
- нологии: теория\, практика и и [РИНЦ\, пла
- тно]
-DESCRIPTION:Проведение: 06.11.2026\nДедлайн подачи
- : 30.10.2026\nИндексация: РИНЦ\nПубликация: пл
- атно\nМесто: Россия\, Тамбов (очно/заочно
- )\nФормат: очно/заочно\nТемы/контакты: ма
- териаловедение и твердофазные техноло
- гии новых материалов (в т.ч. СВС-техноло
- гия)\, наносистемы и материалы\, химико-т
- ехнологические процессы\, механика и ма
- тематическое моделирование\, инновацио
- нный менеджмент в сфере высоких технол
- огий\; оргвзнос 350 руб. за 3 страницы (вкл
- ючает публикацию в РИНЦ)\; дедлайн 30.10.2026
- \; источник — пост ВК https://vk.com/wall-59402490_6872\
- nСсылка: https://stt.tstu.ru
-URL:https://stt.tstu.ru
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: XVI Международ
- ная научно-инновационная молодежная ко
- нференция «Современные твердофазные т
- ехнологии: 
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:8493642700@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:📖 ! ДЕДЛАЙН подачи: XVII Международна
- я научно-практическая конференция «Инн
- овации в науке и технике: современные в
- ызовы» (МНИЦ «Твоя наука»\, [РИНЦ\, платн
- о]
-DESCRIPTION:Проведение: 30.10.2026\nДедлайн подачи
- : 30.10.2026\nИндексация: РИНЦ\nПубликация: пл
- атно\nМесто: МНИЦ «Твоя наука» (заочно)\, 
- сайт tvoyanauka.com\nФормат: заочно\nТемы/конта
- кты: наука и техника: секции технически
- х\, физико-математических\, естественны
- х наук\, науки о Земле\, архитектура и др.
- \; статьи в сборнике\, входящем в РИНЦ (eLib
- rary)\; организационный взнос от 950 руб.\; с
- ертификаты и дипломы участникам\; e-mail kon
- f@tvoyanauka.com\; сайт https://tvoyanauka.com\; приём заяв
- ок до 30.10.2026\nСсылка: https://konferencii.ru/info/152712\n
- Сайт конференции: https://tvoyanauka.com
-URL:https://tvoyanauka.com
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: XVII Международ
- ная научно-практическая конференция «И
- нновации в науке и технике: современные
-  вызовы»
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:6313098594@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:🏅 ! ДЕДЛАЙН подачи: XXX Международна
- я научно-практическая конференция «Мир
- овая глобализация: фундаментальные и п
- рикладные аспекты» [ВАК+РИНЦ\, не указан
- о]
-DESCRIPTION:Проведение: 30.10.2026\nДедлайн подачи
- : 30.10.2026\nИндексация: ВАК+РИНЦ\nПубликаци
- я: не указано\nСсылка: https://konferencii.ru/info/15408
- 5\nСайт конференции: https://jomeam.ru\nИнформац
- ионное письмо: https://konferencii.ru/download/154085
-URL:https://konferencii.ru/download/154085
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: XXX Международ
- ная научно-практическая конференция «М
- ировая глобализация: фундаментальные и
-  прикладны
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:8316460500@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:📖 ! ДЕДЛАЙН подачи: XXXVI Международн
- ая научная конференция «Общество: науч
- но-образовательный потенциал развития 
- (идеи\, ресурсы\, решения)» [РИНЦ\, не указ
- ано]
-DESCRIPTION:Проведение: 30.10.2026\nДедлайн подачи
- : 30.10.2026\nИндексация: РИНЦ\nПубликация: не
-  указано\nСсылка: https://konferencii.ru/info/153710\nИн
- формационное письмо: https://konferencii.ru/download/1
- 53710
-URL:https://konferencii.ru/download/153710
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: XXXVI Междунаро
- дная научная конференция «Общество: на
- учно-образовательный потенциал развит
- ия (идеи\, 
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:4356444666@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:📖 ! ДЕДЛАЙН подачи: Всероссийская м
- олодежная научно-практическая конфере
- нция «Актуальные проблемы исследовани
- й в области\, географии\, экологи [РИНЦ\, 
- бесплатно]
-DESCRIPTION:Дедлайн подачи: 30.10.2026\nИндексация
- : РИНЦ\nПубликация: бесплатно\nТемы/конт
- акты: Экология\, экологический монитори
- нг\, ГИС и ДЗЗ\, водные ресурсы\, землепол
- ьзование и восстановление земель. По пу
- бликации https://vk.com/wall-59402490_7001: заявки до 30
-  октября\, участие бесплатное\, электрон
- ный сборник РИНЦ. Год дедлайна принят п
- о текущему анонсу (2026). Полный адрес пис
- ьма извлечён из ссылки VK\; содержимое пи
- сьма не проверено в пределах бюджета ст
- раниц. Дата проведения\, место и форм\nСс
- ылка: https://disk.yandex.ru/d/F2LbQXmSPDrS3g
-URL:https://disk.yandex.ru/d/F2LbQXmSPDrS3g
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: Всероссийска
- я молодежная научно-практическая конфе
- ренция «Актуальные проблемы исследова
- ний в области
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:9072710151@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:📖 ! ДЕДЛАЙН подачи: ДНИ РОССИЙСКОЙ 
- НАУКИ [РИНЦ\, не указано]
-DESCRIPTION:Проведение: 30.10.2026\nДедлайн подачи
- : 30.10.2026\nИндексация: РИНЦ\nПубликация: не
-  указано\nСсылка: https://naukaip.ru/drn/
-URL:https://naukaip.ru/drn/
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: ДНИ РОССИЙСКО
- Й НАУКИ
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:9877557798@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:📖 ! ДЕДЛАЙН подачи: Международная н
- аучно-практическая конференция «Совре
- менные проблемы земельно-имущественны
- х отношений\, урбанизации террит [РИНЦ\, 
- бесплатно]
-DESCRIPTION:Проведение: 02.12.2026\nДедлайн подачи
- : 30.10.2026\nИндексация: РИНЦ\nПубликация: бе
- сплатно\nМесто: Тюмень\, Тюменский индус
- триальный университет (ТИУ)\nФормат: очн
- о/заочно\nТемы/контакты: строительство/
- землеустройство: земельно-имущественн
- ые отношения\, кадастр и геодезия\, урба
- низация и городская среда\, инженерные 
- системы и сооружения\; e-mail chernyheg@tyuiu.ru\; о
- ргвзнос не предусмотрен\nСсылка: https://konf
- erencii.ru/info/153871\nСайт конференции: https://www.tyu
- iu.ru/index.php/nauka/granty-i-meropriiatiia/meropriiatiia
-URL:https://www.tyuiu.ru/index.php/nauka/granty-i-meropriiatiia/meropriia
- tiia
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: Международна
- я научно-практическая конференция «Сов
- ременные проблемы земельно-имуществен
- ных отношений
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:4575702075@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:📖 ! ДЕДЛАЙН подачи: Международная н
- аучно-практическая конференция «Устой
- чивое развитие регионов: экология\, эко
- номика\, технологии\, безопаснос [РИНЦ\, 
- платно]
-DESCRIPTION:Проведение: 10.11.2026–11.11.2026\nДедлайн
-  подачи: 30.10.2026\nИндексация: РИНЦ\nПублик
- ация: платно\nМесто: Нижневартовск\, ФГБ
- ОУ ВО «Нижневартовский государственны
- й университет» (НВГУ)\nФормат: смешанный
- \nТемы/контакты: секции: экологическая б
- езопасность и рациональное природопол
- ьзование\; техносферная безопасность и 
- геоинформационные технологии\; промышл
- енная безопасность\; экономическая без
- опасность\; устойчивое развитие регион
- а\; e-mail: konf@nvsu.ru\; очно/дистанционно\; РИНЦ
- \; платная публикация (для аспирантов — 
- бесплатно)\; уточнено по konferencii.ru/info/153592\n
- Ссылка: https://vk.com/wall-59402490_6477
-URL:https://vk.com/wall-59402490_6477
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: Международна
- я научно-практическая конференция «Уст
- ойчивое развитие регионов: экология\, э
- кономика\, те
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:4980796373@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:📖 ! ДЕДЛАЙН подачи: НАУКА\, ОБРАЗОВА
- НИЕ\, ИННОВАЦИИ: АКТУАЛЬНЫЕ ВОПРОСЫ И СО
- ВРЕМЕННЫЕ АСПЕКТЫ [РИНЦ\, не указано]
-DESCRIPTION:Проведение: 30.10.2026\nДедлайн подачи
- : 30.10.2026\nИндексация: РИНЦ\nПубликация: не
-  указано\nСсылка: https://naukaip.ru/noi/
-URL:https://naukaip.ru/noi/
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: НАУКА\, ОБРАЗО
- ВАНИЕ\, ИННОВАЦИИ: АКТУАЛЬНЫЕ ВОПРОСЫ И 
- СОВРЕМЕННЫЕ АСПЕКТЫ
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2165386273@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:📖 ! ДЕДЛАЙН подачи: НАУЧНЫЕ ИССЛЕДО
- ВАНИЯ МОЛОДЫХ УЧЁНЫХ [РИНЦ\, не указано]
-DESCRIPTION:Проведение: 30.10.2026\nДедлайн подачи
- : 30.10.2026\nИндексация: РИНЦ\nПубликация: не
-  указано\nСсылка: https://naukaip.ru/nim/
-URL:https://naukaip.ru/nim/
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: НАУЧНЫЕ ИССЛЕ
- ДОВАНИЯ МОЛОДЫХ УЧЁНЫХ
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:6928209031@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:📖 ! ДЕДЛАЙН подачи: X Международная 
- научно-практическая конференция «Комм
- уникации в условиях цифровой трансформ
- ации (CDT – 2026)» [РИНЦ\, не указано]
-DESCRIPTION:Проведение: 23.11.2026–24.11.2026\nДедлайн
-  подачи: 31.10.2026\nИндексация: РИНЦ\nПублик
- ация: не указано\nТемы/контакты: IT-borderline:
-  направления по ИИ и цифровым коммуника
- циям\; заявки до 31 окт\nСсылка: https://vk.com/wal
- l-59402490_6742
-URL:https://vk.com/wall-59402490_6742
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: X Международн
- ая научно-практическая конференция «Ко
- ммуникации в условиях цифровой трансфо
- рмации (CDT
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:7347500307@konferencii
-DTSTAMP:20261031T050311Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:📖 ! ДЕДЛАЙН подачи: XXIX Российская н
- аучная конференция «Инжиниринг предпр
- иятий и управление знаниями» (РЭУ им. Г.
- В. Плеханова\, Москва) [РИНЦ\, бесплатно]
-DESCRIPTION:Дедлайн подачи: 31.10.2026\nИндексация
- : РИНЦ\nПубликация: бесплатно\nМесто: Мос
- ква\, РЭУ им. Г.В. Плеханова\nФормат: очно/
- онлайн\nТемы/контакты: ИТ/цифровизация: 
- цифровая трансформация предприятий на 
- основе ИИ\, объяснимый и доверенный ИИ\, 
- кибербезопасность\, экономика данных\, b
- ig data и ML\, управление знаниями\, многоаге
- нтные системы\; заявки до 31.10.2026\; публик
- ация бесплатная (РИНЦ/eLibrary)\; e-mail org-conf-eekm
- @rea.ru\; инф. письмо в посте обрезано (disk.yand
- ex.ru/d/QYwRqM11…) — требует проверки\nСсылка: 
- https://vk.com/wall-59402490_6873
-URL:https://vk.com/wall-59402490_6873
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Через 3 дня дедлайн: XXIX Российская
-  научная конференция «Инжиниринг предп
- риятий и управление знаниями» (РЭУ им. Г
- .В. Пле
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:4347219512@konferencii
-DTSTAMP:20261031T050311Z
+UID:1955598653@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:📖 ! ДЕДЛАЙН подачи: IV Всероссийская
@@ -649,8 +42,8 @@ DESCRIPTION:Через 3 дня дедлайн: IV Всероссийск
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:196682230@konferencii
-DTSTAMP:20261031T050311Z
+UID:6072646043@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:📖 ! ДЕДЛАЙН подачи: IV Международный
@@ -679,8 +72,8 @@ DESCRIPTION:Через 3 дня дедлайн: IV Международн
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6642972236@konferencii
-DTSTAMP:20261031T050311Z
+UID:769611191@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:📖 ! ДЕДЛАЙН подачи: VIII Международна
@@ -703,8 +96,8 @@ DESCRIPTION:Через 3 дня дедлайн: VIII Международ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3190048416@konferencii
-DTSTAMP:20261031T050311Z
+UID:4906532728@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XVI Всероссийска
@@ -740,8 +133,8 @@ DESCRIPTION:Через 3 дня дедлайн: XVI Всероссийс
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4578382370@konferencii
-DTSTAMP:20261031T050311Z
+UID:3729730112@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XXI Международна
@@ -771,8 +164,8 @@ DESCRIPTION:Через 3 дня дедлайн: XXI Международ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2671548002@konferencii
-DTSTAMP:20261031T050311Z
+UID:4715186330@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XXII Всероссийска
@@ -804,8 +197,8 @@ DESCRIPTION:Через 3 дня дедлайн: XXII Всероссийс
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4698138640@konferencii
-DTSTAMP:20261031T050311Z
+UID:2077989631@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:📖 ! ДЕДЛАЙН подачи: ЭФФЕКТИВНОЕ ОБЕ
@@ -825,8 +218,8 @@ DESCRIPTION:Через 3 дня дедлайн: ЭФФЕКТИВНОЕ О
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8916574125@konferencii
-DTSTAMP:20261031T050311Z
+UID:8455775232@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XV Международная
@@ -855,8 +248,8 @@ DESCRIPTION:Через 3 дня дедлайн: XV Международн
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8504461289@konferencii
-DTSTAMP:20261031T050311Z
+UID:859734135@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:🏅 ! ДЕДЛАЙН подачи: XXVII Международн
@@ -892,8 +285,8 @@ DESCRIPTION:Через 3 дня дедлайн: XXVII Междунаро
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5984505214@konferencii
-DTSTAMP:20261031T050311Z
+UID:9043302718@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Международная н
@@ -925,8 +318,8 @@ DESCRIPTION:Через 3 дня дедлайн: Международна
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9112407826@konferencii
-DTSTAMP:20261031T050311Z
+UID:583761895@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Международная н
@@ -958,8 +351,8 @@ DESCRIPTION:Через 3 дня дедлайн: Международна
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5716120344@konferencii
-DTSTAMP:20261031T050311Z
+UID:6759779610@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:📄 ! ДЕДЛАЙН подачи: Международная н
@@ -993,8 +386,8 @@ DESCRIPTION:Через 3 дня дедлайн: Международна
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3913647868@konferencii
-DTSTAMP:20261031T050311Z
+UID:5296801171@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:📖 ! ДЕДЛАЙН подачи: V Международная 
@@ -1022,8 +415,8 @@ DESCRIPTION:Через 3 дня дедлайн: V Международн
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3402642672@konferencii
-DTSTAMP:20261031T050311Z
+UID:5232704815@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Сборник студенч
@@ -1052,8 +445,8 @@ DESCRIPTION:Через 3 дня дедлайн: Сборник студе
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7838360811@konferencii
-DTSTAMP:20261031T050311Z
+UID:9442480423@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XXI Международна
@@ -1086,8 +479,8 @@ DESCRIPTION:Через 3 дня дедлайн: XXI Международ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1230730491@konferencii
-DTSTAMP:20261031T050311Z
+UID:5294214661@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:📖 ! ДЕДЛАЙН подачи: НОВАЯ ЭКОНОМИКА
@@ -1115,8 +508,8 @@ DESCRIPTION:Через 3 дня дедлайн: НОВАЯ ЭКОНОМИ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3872674028@konferencii
-DTSTAMP:20261031T050311Z
+UID:3756856790@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:📖 ! ДЕДЛАЙН подачи: ПРОФЕССИОНАЛЬН
@@ -1144,8 +537,8 @@ DESCRIPTION:Через 3 дня дедлайн: ПРОФЕССИОНАЛ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6140612020@konferencii
-DTSTAMP:20261031T050311Z
+UID:1044810609@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:📖 ! ДЕДЛАЙН подачи: VII Всероссийска
@@ -1182,8 +575,8 @@ DESCRIPTION:Через 3 дня дедлайн: VII Всероссийс
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2374539225@konferencii
-DTSTAMP:20261031T050311Z
+UID:643783661@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XIII Всероссийска
@@ -1215,8 +608,8 @@ DESCRIPTION:Через 3 дня дедлайн: XIII Всероссийс
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8118050465@konferencii
-DTSTAMP:20261031T050311Z
+UID:2531970865@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XV Всероссийская
@@ -1248,8 +641,8 @@ DESCRIPTION:Через 3 дня дедлайн: XV Всероссийск
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3421325783@konferencii
-DTSTAMP:20261031T050311Z
+UID:9093158696@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:📖 ! ДЕДЛАЙН подачи: АКТУАЛЬНЫЕ ВОПР
@@ -1268,8 +661,8 @@ DESCRIPTION:Через 3 дня дедлайн: АКТУАЛЬНЫЕ ВО
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7977497311@konferencii
-DTSTAMP:20261031T050311Z
+UID:3023086166@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:📖 ! ДЕДЛАЙН подачи: БОЛЬШАЯ СТУДЕНЧ
@@ -1286,8 +679,8 @@ DESCRIPTION:Через 3 дня дедлайн: БОЛЬШАЯ СТУДЕ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8201198355@konferencii
-DTSTAMP:20261031T050311Z
+UID:6124516380@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Международная н
@@ -1319,8 +712,8 @@ DESCRIPTION:Через 3 дня дедлайн: Международна
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3121758446@konferencii
-DTSTAMP:20261031T050311Z
+UID:9608847155@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:📖 ! ДЕДЛАЙН подачи: НАУКА И СОВРЕМЕ
@@ -1339,8 +732,8 @@ DESCRIPTION:Через 3 дня дедлайн: НАУКА И СОВРЕ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:145695567@konferencii
-DTSTAMP:20261031T050311Z
+UID:5748922334@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:📖 ! ДЕДЛАЙН подачи: ПАРТНЁРСТВО И С
@@ -1359,8 +752,8 @@ DESCRIPTION:Через 3 дня дедлайн: ПАРТНЁРСТВО И
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4095986070@konferencii
-DTSTAMP:20261031T050311Z
+UID:5079424630@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:📖 ! ДЕДЛАЙН подачи: VII Всероссийска
@@ -1397,8 +790,8 @@ DESCRIPTION:Через 3 дня дедлайн: VII Всероссийс
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7357028727@konferencii
-DTSTAMP:20261031T050311Z
+UID:69197579@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:📖 ! ДЕДЛАЙН подачи: X Международная 
@@ -1433,8 +826,8 @@ DESCRIPTION:Через 3 дня дедлайн: X Международн
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8502791430@konferencii
-DTSTAMP:20261031T050311Z
+UID:6526059939@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XXIII Всероссийск
@@ -1466,8 +859,8 @@ DESCRIPTION:Через 3 дня дедлайн: XXIII Всероссий
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4302399569@konferencii
-DTSTAMP:20261031T050311Z
+UID:2360707057@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XXXIII Международн
@@ -1504,8 +897,8 @@ DESCRIPTION:Через 3 дня дедлайн: XXXIII Междунаро
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1952685177@konferencii
-DTSTAMP:20261031T050311Z
+UID:8106632563@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Всероссийская н
@@ -1527,8 +920,8 @@ DESCRIPTION:Через 3 дня дедлайн: Всероссийска
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2659191173@konferencii
-DTSTAMP:20261031T050311Z
+UID:3111074275@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Круглый стол «К
@@ -1555,8 +948,8 @@ DESCRIPTION:Через 3 дня дедлайн: Круглый стол
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2586124922@konferencii
-DTSTAMP:20261031T050311Z
+UID:8363084148@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:📖 ! ДЕДЛАЙН подачи: 33-я Международн
@@ -1586,8 +979,8 @@ DESCRIPTION:Через 3 дня дедлайн: 33-я Междунаро
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1483994488@konferencii
-DTSTAMP:20261031T050311Z
+UID:4397634513@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Всероссийская н
@@ -1611,8 +1004,8 @@ DESCRIPTION:Через 3 дня дедлайн: Всероссийска
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1106136131@konferencii
-DTSTAMP:20261031T050311Z
+UID:5314688295@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Всероссийская с
@@ -1645,8 +1038,8 @@ DESCRIPTION:Через 3 дня дедлайн: Всероссийска
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4846529398@konferencii
-DTSTAMP:20261031T050311Z
+UID:5348989269@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:📖 ! ДЕДЛАЙН подачи: X Международная 
@@ -1668,8 +1061,8 @@ DESCRIPTION:Через 3 дня дедлайн: X Международн
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2448454451@konferencii
-DTSTAMP:20261031T050311Z
+UID:2004689657@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XIX Всероссийска
@@ -1691,8 +1084,8 @@ DESCRIPTION:Через 3 дня дедлайн: XIX Всероссийс
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2935176107@konferencii
-DTSTAMP:20261031T050311Z
+UID:1790227614@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Международная н
@@ -1725,8 +1118,8 @@ DESCRIPTION:Через 3 дня дедлайн: Международна
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8926709861@konferencii
-DTSTAMP:20261031T050311Z
+UID:7129937671@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:📖 ! ДЕДЛАЙН подачи: II Всероссийская
@@ -1762,8 +1155,8 @@ DESCRIPTION:Через 3 дня дедлайн: II Всероссийск
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5390221162@konferencii
-DTSTAMP:20261031T050311Z
+UID:6393936425@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:📖 ! ДЕДЛАЙН подачи: IV Международная
@@ -1797,8 +1190,8 @@ DESCRIPTION:Через 3 дня дедлайн: IV Международн
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:200039449@konferencii
-DTSTAMP:20261031T050311Z
+UID:9882959986@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:📖 ! ДЕДЛАЙН подачи: V Всероссийская 
@@ -1833,8 +1226,8 @@ DESCRIPTION:Через 3 дня дедлайн: V Всероссийск
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:584640981@konferencii
-DTSTAMP:20261031T050311Z
+UID:3149762961@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:📖 ! ДЕДЛАЙН подачи: VIII Всероссийска
@@ -1864,8 +1257,8 @@ DESCRIPTION:Через 3 дня дедлайн: VIII Всероссийс
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8434052579@konferencii
-DTSTAMP:20261031T050311Z
+UID:8883204539@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XI Международная
@@ -1898,8 +1291,8 @@ DESCRIPTION:Через 3 дня дедлайн: XI Международн
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1587429152@konferencii
-DTSTAMP:20261031T050311Z
+UID:8825417561@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XXVII Международн
@@ -1926,8 +1319,8 @@ DESCRIPTION:Через 3 дня дедлайн: XXVII Междунаро
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6265905144@konferencii
-DTSTAMP:20261031T050311Z
+UID:3648208241@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:📖 ! ДЕДЛАЙН подачи: АКТУАЛЬНЫЕ ПРОБ
@@ -1956,8 +1349,8 @@ DESCRIPTION:Через 3 дня дедлайн: АКТУАЛЬНЫЕ ПР
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7436922669@konferencii
-DTSTAMP:20261031T050311Z
+UID:4025548574@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Всероссийская н
@@ -1987,8 +1380,8 @@ DESCRIPTION:Через 3 дня дедлайн: Всероссийска
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1117969833@konferencii
-DTSTAMP:20261031T050311Z
+UID:7120744055@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Всероссийская н
@@ -2017,8 +1410,8 @@ DESCRIPTION:Через 3 дня дедлайн: Всероссийска
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9912580842@konferencii
-DTSTAMP:20261031T050311Z
+UID:3750961921@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Международная н
@@ -2054,8 +1447,8 @@ DESCRIPTION:Через 3 дня дедлайн: Международна
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4172295513@konferencii
-DTSTAMP:20261031T050311Z
+UID:276800513@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Межрегиональна
@@ -2078,8 +1471,8 @@ DESCRIPTION:Через 3 дня дедлайн: Межрегиональ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3975532149@konferencii
-DTSTAMP:20261031T050311Z
+UID:2649749419@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:📖 ! ДЕДЛАЙН подачи: НАУЧНЫЕ ИССЛЕДО
@@ -2096,8 +1489,8 @@ DESCRIPTION:Через 3 дня дедлайн: НАУЧНЫЕ ИССЛЕ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4752817953@konferencii
-DTSTAMP:20261031T050311Z
+UID:8323702877@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Наука и молодые 
@@ -2114,8 +1507,8 @@ DESCRIPTION:Через 3 дня дедлайн: Наука и молод
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9957581643@konferencii
-DTSTAMP:20261031T050311Z
+UID:5119693123@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:📖 ! ДЕДЛАЙН подачи: V Международная 
@@ -2154,8 +1547,8 @@ DESCRIPTION:Через 3 дня дедлайн: V Международн
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3271616759@konferencii
-DTSTAMP:20261031T050311Z
+UID:363858280@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:📖 ! ДЕДЛАЙН подачи: VIII Всероссийска
@@ -2182,8 +1575,8 @@ DESCRIPTION:Через 3 дня дедлайн: VIII Всероссийс
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5224527656@konferencii
-DTSTAMP:20261031T050311Z
+UID:294790673@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XVI Всероссийска
@@ -2221,8 +1614,8 @@ DESCRIPTION:Через 3 дня дедлайн: XVI Всероссийс
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8547412399@konferencii
-DTSTAMP:20261031T050311Z
+UID:9627070543@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XVI Всероссийска
@@ -2251,8 +1644,8 @@ DESCRIPTION:Через 3 дня дедлайн: XVI Всероссийс
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5038521171@konferencii
-DTSTAMP:20261031T050311Z
+UID:69510743@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XXXVI Международн
@@ -2289,8 +1682,8 @@ DESCRIPTION:Через 3 дня дедлайн: XXXVI Междунаро
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7092204615@konferencii
-DTSTAMP:20261031T050311Z
+UID:2477292508@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:📖 ! ДЕДЛАЙН подачи: АНАЛИЗ ПРОБЛЕМ 
@@ -2320,8 +1713,8 @@ DESCRIPTION:Через 3 дня дедлайн: АНАЛИЗ ПРОБЛЕ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7450917645@konferencii
-DTSTAMP:20261031T050311Z
+UID:7427731960@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Всероссийская п
@@ -2342,8 +1735,8 @@ DESCRIPTION:Через 3 дня дедлайн: Всероссийска
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8104973365@konferencii
-DTSTAMP:20261031T050311Z
+UID:5282369947@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XX Всероссийская
@@ -2371,8 +1764,8 @@ DESCRIPTION:Через 3 дня дедлайн: XX Всероссийск
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1089610517@konferencii
-DTSTAMP:20261031T050311Z
+UID:6679966188@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:📖 ! ДЕДЛАЙН подачи: IV Международная
@@ -2399,8 +1792,8 @@ DESCRIPTION:Через 3 дня дедлайн: IV Международн
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7060041430@konferencii
-DTSTAMP:20261031T050311Z
+UID:4115474970@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:📖 ! ДЕДЛАЙН подачи: X Международная 
@@ -2427,8 +1820,8 @@ DESCRIPTION:Через 3 дня дедлайн: X Международн
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5932868867@konferencii
-DTSTAMP:20261031T050311Z
+UID:6747395632@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Всероссийская н
@@ -2457,8 +1850,8 @@ DESCRIPTION:Через 3 дня дедлайн: Всероссийска
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7190390614@konferencii
-DTSTAMP:20261031T050311Z
+UID:1041922921@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:📖 ! ДЕДЛАЙН подачи: ИНТЕЛЛЕКТУАЛЬН
@@ -2487,8 +1880,8 @@ DESCRIPTION:Через 3 дня дедлайн: ИНТЕЛЛЕКТУАЛ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9705570445@konferencii
-DTSTAMP:20261031T050311Z
+UID:4578007946@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:📖 ! ДЕДЛАЙН подачи: МОЛОДЁЖНЫЙ НАУЧ
@@ -2505,8 +1898,8 @@ DESCRIPTION:Через 3 дня дедлайн: МОЛОДЁЖНЫЙ НА
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8365958439@konferencii
-DTSTAMP:20261031T050311Z
+UID:6089419014@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Международная н
@@ -2541,8 +1934,8 @@ DESCRIPTION:Через 3 дня дедлайн: Международна
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1940586432@konferencii
-DTSTAMP:20261031T050311Z
+UID:5707971158@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Региональная на
@@ -2573,8 +1966,8 @@ DESCRIPTION:Через 3 дня дедлайн: Региональная
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1880783656@konferencii
-DTSTAMP:20261031T050311Z
+UID:2169432134@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:📖 ! ДЕДЛАЙН подачи: IV Всероссийская
@@ -2601,8 +1994,8 @@ DESCRIPTION:Через 3 дня дедлайн: IV Всероссийск
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2373601630@konferencii
-DTSTAMP:20261031T050311Z
+UID:6132590751@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:📖 ! ДЕДЛАЙН подачи: VI Международная
@@ -2634,8 +2027,8 @@ DESCRIPTION:Через 3 дня дедлайн: VI Международн
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8953935242@konferencii
-DTSTAMP:20261031T050311Z
+UID:7500490362@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:📖 ! ДЕДЛАЙН подачи: II Всероссийская
@@ -2660,8 +2053,8 @@ DESCRIPTION:Через 3 дня дедлайн: II Всероссийск
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2791955481@konferencii
-DTSTAMP:20261031T050311Z
+UID:2853503892@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XI Всероссийская
@@ -2697,8 +2090,8 @@ DESCRIPTION:Через 3 дня дедлайн: XI Всероссийск
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9225039821@konferencii
-DTSTAMP:20261031T050311Z
+UID:7861325727@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XI Межрегиональн
@@ -2725,8 +2118,8 @@ DESCRIPTION:Через 3 дня дедлайн: XI Межрегионал
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5782820678@konferencii
-DTSTAMP:20261031T050311Z
+UID:5540211292@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XVIII Всероссийск
@@ -2753,8 +2146,8 @@ DESCRIPTION:Через 3 дня дедлайн: XVIII Всероссий
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:596900726@konferencii
-DTSTAMP:20261031T050311Z
+UID:2562275435@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XVIII Всероссийск
@@ -2781,8 +2174,8 @@ DESCRIPTION:Через 3 дня дедлайн: XVIII Всероссий
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2864908137@konferencii
-DTSTAMP:20261031T050311Z
+UID:8981583379@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:📖 ! ДЕДЛАЙН подачи: АКТУАЛЬНЫЕ ВОПР
@@ -2799,8 +2192,8 @@ DESCRIPTION:Через 3 дня дедлайн: АКТУАЛЬНЫЕ ВО
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4361579281@konferencii
-DTSTAMP:20261031T050311Z
+UID:2678672322@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:📖 ! ДЕДЛАЙН подачи: ГЛОБАЛИЗАЦИЯ НА
@@ -2830,8 +2223,41 @@ DESCRIPTION:Через 3 дня дедлайн: ГЛОБАЛИЗАЦИЯ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3613038290@konferencii
-DTSTAMP:20261031T050311Z
+UID:8210151525@konferencii
+DTSTAMP:20261102T050253Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:📖 ! ДЕДЛАЙН подачи: Международная н
+ аучно-методическая конференция «Совре
+ менное образование: от технологическог
+ о суверенитета к технологическ [РИНЦ\, п
+ латно]
+DESCRIPTION:Дедлайн подачи: 20.11.2026\nИндексация
+ : РИНЦ\nПубликация: платно\nФормат: очно\,
+  заочно\nТемы/контакты: Технологии иску
+ сственного интеллекта в инженерном обр
+ азовании\; электронный сборник РИНЦ. Ко
+ нтакт: mariia.i.viatkina@tusur.ru. Полная ссылка изв
+ лечена из публикации https://vk.ru/wall-59402490_7063.
+  Заявки до 20 ноября\; год 2026 принят по те
+ кущему циклу анонса. Требует проверки: 
+ дата и место проведения\, год дедлайна и
+  размер оргвзноса по информационному п
+ исьму\; письмо не открывалось в предела
+ х бюдж\nСсылка: https://disk.yandex.ru/i/gMEaNJotKfiE-Q
+URL:https://disk.yandex.ru/i/gMEaNJotKfiE-Q
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Через 3 дня дедлайн: Международна
+ я научно-методическая конференция «Сов
+ ременное образование: от технологическ
+ ого суверени
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7367225845@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Международная н
@@ -2861,8 +2287,8 @@ DESCRIPTION:Через 3 дня дедлайн: Международна
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8668418220@konferencii
-DTSTAMP:20261031T050311Z
+UID:5292361521@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:📖 ! ДЕДЛАЙН подачи: НАУЧНЫЕ ИССЛЕДО
@@ -2880,8 +2306,8 @@ DESCRIPTION:Через 3 дня дедлайн: НАУЧНЫЕ ИССЛЕ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9884402242@konferencii
-DTSTAMP:20261031T050311Z
+UID:4251534887@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:📖 ! ДЕДЛАЙН подачи: РАЗВИТИЕ СОВРЕМ
@@ -2901,8 +2327,8 @@ DESCRIPTION:Через 3 дня дедлайн: РАЗВИТИЕ СОВР
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4254519373@konferencii
-DTSTAMP:20261031T050311Z
+UID:2354343131@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:📖 ! ДЕДЛАЙН подачи: V Международная 
@@ -2930,8 +2356,8 @@ DESCRIPTION:Через 3 дня дедлайн: V Международн
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7213782580@konferencii
-DTSTAMP:20261031T050311Z
+UID:2087948718@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:📖 ! ДЕДЛАЙН подачи: VI Всероссийская
@@ -2959,8 +2385,8 @@ DESCRIPTION:Через 3 дня дедлайн: VI Всероссийск
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2936612713@konferencii
-DTSTAMP:20261031T050311Z
+UID:104823575@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:📖 ! ДЕДЛАЙН подачи: IX Международная
@@ -2994,8 +2420,8 @@ DESCRIPTION:Через 3 дня дедлайн: IX Международн
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5387675434@konferencii
-DTSTAMP:20261031T050311Z
+UID:2351938983@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XIII Всероссийска
@@ -3021,8 +2447,8 @@ DESCRIPTION:Через 3 дня дедлайн: XIII Всероссийс
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6617800060@konferencii
-DTSTAMP:20261031T050311Z
+UID:3647172552@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:📖 ! ДЕДЛАЙН подачи: IV Всероссийская
@@ -3052,8 +2478,40 @@ DESCRIPTION:Через 3 дня дедлайн: IV Всероссийск
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8815310407@konferencii
-DTSTAMP:20261031T050311Z
+UID:701091278@konferencii
+DTSTAMP:20261102T050253Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:📖 ! ДЕДЛАЙН подачи: XXVI Всероссийска
+ я научно-практическая конференция с ме
+ ждународным участием «Молодые ученые 
+ – экономике региона» [РИНЦ\, бесплатно]
+DESCRIPTION:Дедлайн подачи: 25.11.2026\nИндексация
+ : РИНЦ\nПубликация: бесплатно\nФормат: оч
+ но\, онлайн\nТемы/контакты: Направление: 
+ инновации для устойчивого развития АПК
+  и биоресурсов региона. Доклады регистр
+ ируются в РИНЦ\; участие и публикация бе
+ сплатные. Контакт: noc.conferenc@mail.ru. Полная с
+ сылка извлечена из публикации https://vk.ru/wa
+ ll-59402490_7057. Заявки до 25 ноября\; год 2026 при
+ нят по текущему циклу анонса. Требует п
+ роверки: дата и место проведения\, год д
+ едлайна по информационному письму\; пис
+ ьмо не о\nСсылка: https://disk.yandex.ru/i/z78midLijU_9og
+URL:https://disk.yandex.ru/i/z78midLijU_9og
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Через 3 дня дедлайн: XXVI Всероссийс
+ кая научно-практическая конференция с 
+ международным участием «Молодые учены
+ е – эконом
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8631673711@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:📖 ! ДЕДЛАЙН подачи: АКТУАЛЬНЫЕ ВОПР
@@ -3071,8 +2529,8 @@ DESCRIPTION:Через 3 дня дедлайн: АКТУАЛЬНЫЕ ВО
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9191820831@konferencii
-DTSTAMP:20261031T050311Z
+UID:7640839548@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:📖 ! ДЕДЛАЙН подачи: МОЛОДЕЖЬ И НАУК
@@ -3091,8 +2549,8 @@ DESCRIPTION:Через 3 дня дедлайн: МОЛОДЕЖЬ И НА
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9329003068@konferencii
-DTSTAMP:20261031T050311Z
+UID:8544627974@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Международная н
@@ -3122,8 +2580,8 @@ DESCRIPTION:Через 3 дня дедлайн: Международна
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8520611561@konferencii
-DTSTAMP:20261031T050311Z
+UID:8621511898@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:📖 ! ДЕДЛАЙН подачи: НАУЧНЫЕ ПОДХОДЫ
@@ -3153,8 +2611,8 @@ DESCRIPTION:Через 3 дня дедлайн: НАУЧНЫЕ ПОДХО
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3284887789@konferencii
-DTSTAMP:20261031T050311Z
+UID:6746787742@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎓 ! ДЕДЛАЙН подачи: Научный журнал 
@@ -3183,8 +2641,8 @@ DESCRIPTION:Через 3 дня дедлайн: Научный журна
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2732627779@konferencii
-DTSTAMP:20261031T050311Z
+UID:9695508325@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:📖 ! ДЕДЛАЙН подачи: ЧЕЛОВЕК И ОБЩЕС
@@ -3203,8 +2661,8 @@ DESCRIPTION:Через 3 дня дедлайн: ЧЕЛОВЕК И ОБЩ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:366172629@konferencii
-DTSTAMP:20261031T050311Z
+UID:9180762323@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:📖 ! ДЕДЛАЙН подачи: VI Международная
@@ -3234,8 +2692,8 @@ DESCRIPTION:Через 3 дня дедлайн: VI Международн
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4135458117@konferencii
-DTSTAMP:20261031T050311Z
+UID:5151870802@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:📖 ! ДЕДЛАЙН подачи: VIII Научно-практ
@@ -3266,8 +2724,8 @@ DESCRIPTION:Через 3 дня дедлайн: VIII Научно-пра
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5093541776@konferencii
-DTSTAMP:20261031T050311Z
+UID:8894548387@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XVI Международны
@@ -3290,8 +2748,8 @@ DESCRIPTION:Через 3 дня дедлайн: XVI Международ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1456329364@konferencii
-DTSTAMP:20261031T050311Z
+UID:1928654277@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:📖 ! ДЕДЛАЙН подачи: УСТОЙЧИВОЕ РАЗВ
@@ -3322,8 +2780,8 @@ DESCRIPTION:Через 3 дня дедлайн: УСТОЙЧИВОЕ РА
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2012440044@konferencii
-DTSTAMP:20261031T050311Z
+UID:3924411172@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:📖 ! ДЕДЛАЙН подачи: VI Международная
@@ -3354,8 +2812,8 @@ DESCRIPTION:Через 3 дня дедлайн: VI Международн
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7782295728@konferencii
-DTSTAMP:20261031T050311Z
+UID:7801626683@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:📖 ! ДЕДЛАЙН подачи: WORLD SCIENCE [РИНЦ\, н
@@ -3371,8 +2829,8 @@ DESCRIPTION:Через 3 дня дедлайн: WORLD SCIENCE
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5631860529@konferencii
-DTSTAMP:20261031T050311Z
+UID:4208084915@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:📖 ! ДЕДЛАЙН подачи: АКТУАЛЬНЫЕ ПРОБ
@@ -3389,8 +2847,8 @@ DESCRIPTION:Через 3 дня дедлайн: АКТУАЛЬНЫЕ ПР
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8836537198@konferencii
-DTSTAMP:20261031T050311Z
+UID:6465610883@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Наука\, инноваци
@@ -3409,8 +2867,8 @@ DESCRIPTION:Через 3 дня дедлайн: Наука\, иннова
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5506771525@konferencii
-DTSTAMP:20261031T050311Z
+UID:7226411631@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Студенческий на
@@ -3427,8 +2885,8 @@ DESCRIPTION:Через 3 дня дедлайн: Студенческий
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7757174555@konferencii
-DTSTAMP:20261031T050311Z
+UID:7175795050@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:🏅 ! ДЕДЛАЙН подачи: Научный журнал 
@@ -3455,8 +2913,8 @@ DESCRIPTION:Через 3 дня дедлайн: Научный журна
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2311137969@konferencii
-DTSTAMP:20261031T050311Z
+UID:2870561530@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:📖 ! ДЕДЛАЙН подачи: ПРИОРИТЕТНЫЕ НА
@@ -3485,8 +2943,8 @@ DESCRIPTION:Через 3 дня дедлайн: ПРИОРИТЕТНЫЕ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4776925401@konferencii
-DTSTAMP:20261031T050311Z
+UID:1330862103@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:📖 ! ДЕДЛАЙН подачи: IX Международная
@@ -3516,8 +2974,8 @@ DESCRIPTION:Через 3 дня дедлайн: IX Международн
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9000400984@konferencii
-DTSTAMP:20261031T050311Z
+UID:121389635@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XIII Международна
@@ -3550,8 +3008,8 @@ DESCRIPTION:Через 3 дня дедлайн: XIII Международ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9803513840@konferencii
-DTSTAMP:20261031T050311Z
+UID:2871195041@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:📖 ! ДЕДЛАЙН подачи: ЦИФРОВЫЕ ТЕХНОЛ
@@ -3580,8 +3038,8 @@ DESCRIPTION:Через 3 дня дедлайн: ЦИФРОВЫЕ ТЕХН
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4459509567@konferencii
-DTSTAMP:20261031T050311Z
+UID:9237162884@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:📖 ! ДЕДЛАЙН подачи: XXVI Международна
@@ -3614,8 +3072,8 @@ DESCRIPTION:Через 3 дня дедлайн: XXVI Международ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5586376313@konferencii
-DTSTAMP:20261031T050311Z
+UID:4630294227@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:📖 ! ДЕДЛАЙН подачи: КООПЕРАЦИЯ НАУК
@@ -3644,8 +3102,8 @@ DESCRIPTION:Через 3 дня дедлайн: КООПЕРАЦИЯ НА
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3075519019@konferencii
-DTSTAMP:20261031T050311Z
+UID:5800398129@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:🏅 ! ДЕДЛАЙН подачи: Научный журнал 
@@ -3673,8 +3131,8 @@ DESCRIPTION:Через 3 дня дедлайн: Научный журна
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8830328045@konferencii
-DTSTAMP:20261031T050311Z
+UID:2987781811@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:📖 ! ДЕДЛАЙН подачи: СОВРЕМЕННЫЕ ТЕН
@@ -3705,8 +3163,8 @@ DESCRIPTION:Через 3 дня дедлайн: СОВРЕМЕННЫЕ Т
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:641427177@konferencii
-DTSTAMP:20261031T050311Z
+UID:8852712812@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:📖 ! ДЕДЛАЙН подачи: V Юбилейная всер
@@ -3742,8 +3200,8 @@ DESCRIPTION:Через 3 дня дедлайн: V Юбилейная вс
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7844561556@konferencii
-DTSTAMP:20261031T050311Z
+UID:9446247257@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:📖 ! ДЕДЛАЙН подачи: МЕЖДИСЦИПЛИНАР
@@ -3774,8 +3232,8 @@ DESCRIPTION:Через 3 дня дедлайн: МЕЖДИСЦИПЛИН
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2104734876@konferencii
-DTSTAMP:20261031T050311Z
+UID:9122974493@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:📖 ! ДЕДЛАЙН подачи: VI Международная
@@ -3808,8 +3266,8 @@ DESCRIPTION:Через 3 дня дедлайн: VI Международн
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:151171967@konferencii
-DTSTAMP:20261031T050311Z
+UID:1359089791@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:📖 ! ДЕДЛАЙН подачи: НОВАЯ НАУКА: ИСТ
@@ -3840,8 +3298,8 @@ DESCRIPTION:Через 3 дня дедлайн: НОВАЯ НАУКА: И
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1759331283@konferencii
-DTSTAMP:20261031T050311Z
+UID:7263146957@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:📖 ! ДЕДЛАЙН подачи: СИНТЕЗ НАУКИ И О
@@ -3870,8 +3328,8 @@ DESCRIPTION:Через 3 дня дедлайн: СИНТЕЗ НАУКИ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9398241762@konferencii
-DTSTAMP:20261031T050311Z
+UID:6050500578@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:📖 ! ДЕДЛАЙН подачи: VI Международная
@@ -3894,8 +3352,8 @@ DESCRIPTION:Через 3 дня дедлайн: VI Международн
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3985535643@konferencii
-DTSTAMP:20261031T050311Z
+UID:334859249@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:📖 ! ДЕДЛАЙН подачи: ПРОБЛЕМЫ И ТЕНД
@@ -3926,8 +3384,8 @@ DESCRIPTION:Через 3 дня дедлайн: ПРОБЛЕМЫ И ТЕ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5823472132@konferencii
-DTSTAMP:20261031T050311Z
+UID:9628105430@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:📖 ! ДЕДЛАЙН подачи: Международный н
@@ -3957,8 +3415,8 @@ DESCRIPTION:Через 3 дня дедлайн: Международны
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4630897842@konferencii
-DTSTAMP:20261031T050311Z
+UID:8076409223@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:📖 ! ДЕДЛАЙН подачи: 9-я Международна
@@ -3988,8 +3446,8 @@ DESCRIPTION:Через 3 дня дедлайн: 9-я Международ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5987626967@konferencii
-DTSTAMP:20261031T050311Z
+UID:9799883121@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:📖 ! ДЕДЛАЙН подачи: X Всероссийская 
@@ -4018,8 +3476,8 @@ DESCRIPTION:Через 3 дня дедлайн: X Всероссийск
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3889377211@konferencii
-DTSTAMP:20261031T050311Z
+UID:1950883554@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:📖 ! ДЕДЛАЙН подачи: V Международная 
@@ -4053,8 +3511,8 @@ DESCRIPTION:Через 3 дня дедлайн: V Международн
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9632653916@konferencii
-DTSTAMP:20261031T050311Z
+UID:1208848185@konferencii
+DTSTAMP:20261102T050253Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
 SUMMARY:📖 ! ДЕДЛАЙН подачи: VIII Международна
